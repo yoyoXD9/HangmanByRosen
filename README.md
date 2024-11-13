@@ -1,1 +1,3 @@
-This is a project by Rosen, Kris, Mitko and Yoan.
+                Hangman project
+This is a project made by Kris, Yoan, Mitko, Rosen and Viki.
+
