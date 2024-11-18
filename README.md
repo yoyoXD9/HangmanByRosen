@@ -20,3 +20,5 @@ Hangman is a word-guessing game where players uncover a hidden word by guessing 
 * Difficulty levels (e.g., Easy, Medium, Hard) based on word length or guess attempts.
 * Dynamic hangman drawing updated after each wrong guess.
 * Victory and game-over animations.
+
+## Screenshots
