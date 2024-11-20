@@ -6,11 +6,11 @@ This is a project made by [Kristiyan Kastrev](https://github.com/KristiyanKastre
 Hangman is a word-guessing game where players uncover a hidden word by guessing letters. Wrong guesses draw parts of a hangman figure, with the goal to guess the word before the figure is complete.
 
 ## Content
-*Hangman.cs
+* Hangman.cs
 
-*word.txt
+* word.txt
 
-*readWords.cs
+* readWords.cs
 
 ## Code explanation
 * Hangman.cs-Contains the code for the game.
