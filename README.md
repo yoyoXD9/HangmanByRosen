@@ -32,6 +32,8 @@ Hangman is a word-guessing game where players uncover a hidden word by guessing 
 ![image](https://github.com/user-attachments/assets/78135cf1-6a6e-4a41-ba5b-cf80c45bb8f5)
 
 
+
 * Win menu
+
   ![image](https://github.com/user-attachments/assets/7183f03d-d157-4175-9bf7-91b616f0702b)
 
