@@ -13,9 +13,9 @@ Hangman is a word-guessing game where players uncover a hidden word by guessing 
 *readWords.cs
 
 ## Code explanation
-*Hangman.cs-Contains the code for the game.
+* Hangman.cs-Contains the code for the game.
 
-*words.txt-Contains 300 rows with words.
+* words.txt-Contains 300 rows with words.
 
 * readWords.cd-It reads the words from the file above.
 
